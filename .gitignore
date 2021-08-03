@@ -1,3 +1,7 @@
+SCI-Paper-results-los_icustay/
+SCI-Paper-results-los_hospital/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
